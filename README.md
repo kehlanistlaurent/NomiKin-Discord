@@ -30,7 +30,7 @@ You can run a Discord integration for as many Nomis and Kins in one instance of 
       1. Copy the generated URL at the bottom and open it in a web browser to add the bot to your Discord server
 1. Install Git if you haven't already got it: [Instructions](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 1. Install Docker if you haven't already got it: [Instructions](https://docs.docker.com/engine/install/)
-1. Clone this repo: `git clone https://github.com/d3tourrr/NomiKin-Discord.git`
+1. Clone this repo: `git clone [https://github.com/kehlanistlaurent/NomiKin-Discord.git]`
    1. After cloning the repo, change to the directory: `cd NomiKin-Discord`
 1. Get your platform API token and companion ID
    * **FOR NOMI**
